@@ -30,7 +30,7 @@ $ serverless deploy --stage <stageName>
 
 ## Stay in touch
 
-- Author - [Selvendran Ayyaswamg]
+- Author - [Selvendran Ayyaswamy]
 
 ## License
 
